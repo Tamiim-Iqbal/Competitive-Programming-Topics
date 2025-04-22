@@ -31,6 +31,6 @@
 | 25 | B. Power Walking | [Problem](https://codeforces.com/problemset/problem/1642/B) | [Solution] | Codeforces |
 | 26 | B. Array Eversion | [Problem](https://codeforces.com/problemset/problem/1585/B) | [Solution] | Codeforces |
 | 27 | B. NIT Destroys the Universe | [Problem](https://codeforces.com/problemset/problem/1696/B) | [Solution] | Codeforces |
-| 28 | B. Promo | [Problem] | [Solution](https://codeforces.com/problemset/problem/1697/B) | Codeforces |
-| 29 | B. Maximum Cost Deletion | [Problem] | [Solution](https://codeforces.com/problemset/problem/1550/B) | Codeforces |
-| 30 | B. Avoid Local Maximums | [Problem] | [Solution](https://codeforces.com/problemset/problem/1635/B) | Codeforces |
+| 28 | B. Promo | [Problem](https://codeforces.com/problemset/problem/1697/B) | [Solution] | Codeforces |
+| 29 | B. Maximum Cost Deletion | [Problem](https://codeforces.com/problemset/problem/1550/B) | [Solution] | Codeforces |
+| 30 | B. Avoid Local Maximums | [Problem](https://codeforces.com/problemset/problem/1635/B) | [Solution] | Codeforces |
