@@ -1,35 +1,35 @@
 <h1 align="center"> Basic Programming & Problem Solving Techniques </h1>
 
-<h2>09. Math </h2>
+<h2>09. Greedy </h2>
 
 | # |    Name      |    Problem Link       |    Solution Link       |       Platform         |
 |:-:|--------------|:---------------------:|:----------------------:|:----------------------:|
-| 1 |    | [Problem] | [Solution] |  |
-| 2 |    | [Problem] | [Solution] |  |
-| 3 |    | [Problem] | [Solution] |  |
-| 4 |    | [Problem] | [Solution] |  |
-| 5 |    | [Problem] | [Solution] |  |
-| 6 |    | [Problem] | [Solution] |  |
-| 7 |    | [Problem] | [Solution] |  |
-| 8 |    | [Problem] | [Solution] |  |
-| 9 |    | [Problem] | [Solution] |  |
-| 10 |    | [Problem] | [Solution] |  |
-| 11 |    | [Problem] | [Solution] |  |
-| 12 |    | [Problem] | [Solution] |  |
-| 13 |    | [Problem] | [Solution] |  |
-| 14 |    | [Problem] | [Solution] |  |
-| 15 |    | [Problem] | [Solution] |  |
-| 16 |    | [Problem] | [Solution] |  |
-| 17 |    | [Problem] | [Solution] |  |
-| 18 |    | [Problem] | [Solution] |  |
-| 19 |    | [Problem] | [Solution] |  |
-| 20 |    | [Problem] | [Solution] |  |
-| 21 |    | [Problem] | [Solution] |  |
-| 22 |    | [Problem] | [Solution] |  |
-| 23 |    | [Problem] | [Solution] |  |
-| 24 |    | [Problem] | [Solution] |  |
-| 25 |    | [Problem] | [Solution] |  |
-| 26 |    | [Problem] | [Solution] |  |
-| 27 |    | [Problem] | [Solution] |  |
-| 28 |    | [Problem] | [Solution] |  |
-| 29 |    | [Problem] | [Solution] |  |
+| 1 | A. Increasing Sequence | [Problem](https://codeforces.com/problemset/problem/1882/A) | [Solution] | Codeforces |
+| 2 | D. 1D Eraser | [Problem](https://codeforces.com/problemset/problem/1873/D) | [Solution] | Codeforces |
+| 3 | A. Increasing and Decreasing | [Problem](https://codeforces.com/problemset/problem/1864/A) | [Solution] |  |
+| 4 | A. Partition | [Problem](https://codeforces.com/problemset/problem/946/A) | [Solution] |  |
+| 5 | A. Puzzle From the Future | [Problem](https://codeforces.com/problemset/problem/1474/A) | [Solution] |  |
+| 6 | A. Divide it! | [Problem](https://codeforces.com/problemset/problem/1176/A) | [Solution] |  |
+| 7 | I. Stick Lengths | [Problem](https://codeforces.com/problemset/gymProblem/102961/I) | [Solution] |  |
+| 8 | A. Tit for Tat | [Problem](https://codeforces.com/problemset/problem/1516/A) | [Solution] |  |
+| 9 | A. Only Pluses | [Problem](https://codeforces.com/problemset/problem/1992/A) | [Solution] |  |
+| 10 | B. Angry Monk | [Problem](https://codeforces.com/problemset/problem/1992/B) | [Solution] |  |
+| 11 |  | [Problem] | [Solution] |  |
+| 12 |  | [Problem] | [Solution] |  |
+| 13 |  | [Problem] | [Solution] |  |
+| 14 |  | [Problem] | [Solution] |  |
+| 15 |  | [Problem] | [Solution] |  |
+| 16 |  | [Problem] | [Solution] |  |
+| 17 |  | [Problem] | [Solution] |  |
+| 18 |  | [Problem] | [Solution] |  |
+| 19 |  | [Problem] | [Solution] |  |
+| 20 |  | [Problem] | [Solution] |  |
+| 21 |  | [Problem] | [Solution] |  |
+| 22 |  | [Problem] | [Solution] |  |
+| 23 |  | [Problem] | [Solution] |  |
+| 24 |  | [Problem] | [Solution] |  |
+| 25 |  | [Problem] | [Solution] |  |
+| 26 |  | [Problem] | [Solution] |  |
+| 27 |  | [Problem] | [Solution] |  |
+| 28 |  | [Problem] | [Solution] |  |
+| 29 |  | [Problem] | [Solution] |  |
