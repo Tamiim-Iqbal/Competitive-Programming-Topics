@@ -21,7 +21,7 @@
 | 15 | A. Puzzles | [Problem](https://codeforces.com/problemset/problem/337/A) | [Solution] | Codeforces |
 | 16 | A. Case of the Zeros and Ones | [Problem](https://codeforces.com/problemset/problem/556/A?locale=en) | [Solution] | Codeforces |
 | 17 | A. Duff and Meat | [Problem](https://codeforces.com/problemset/problem/588/A) | [Solution] | Codeforces |
-| 18 | A. Eating Soup | [Problem] |(https://codeforces.com/problemset/problem/1163/A) [Solution] | Codeforces |
+| 18 | A. Eating Soup | [Problem](https://codeforces.com/problemset/problem/1163/A) |[Solution] | Codeforces |
 | 19 | N. Waste Sorting | [Problem](https://codeforces.com/problemset/problem/1468/N) | [Solution] | Codeforces |
 | 20 | B. Quick Sort | [Problem](https://codeforces.com/problemset/problem/1768/B) | [Solution] | Codeforces |
 | 21 | B. AB Flipping | [Problem](https://codeforces.com/problemset/problem/1896/B) | [Solution] | Codeforces |
